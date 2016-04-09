@@ -1,2 +1,2 @@
 # CVCave
-Useful references in Computer Vision
+Useful references for Computer Vision Research
